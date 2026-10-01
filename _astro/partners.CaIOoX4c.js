@@ -1,0 +1,1 @@
+import{t as e}from"./partners.UaIlYv2q.js";export{e as findPartner};
